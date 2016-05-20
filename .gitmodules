@@ -1,0 +1,3 @@
+[submodule "submodules/UberSplash"]
+	path = submodules/UberSplash
+	url = https://github.com/KobeGong/UberSplash.git
